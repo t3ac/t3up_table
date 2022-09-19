@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-09-22T11:44:12Z" product-name="t3up_table">
+		<header/>
+		<body>
+ 
+			        
+            /* -- TABLE ------------------------ */
+		    <trans-unit id="tablefields">
+			     <source>Tablefields</source>
+		    </trans-unit>	 
+		    <trans-unit id="tablelayout.stripe">
+			     <source>Striped</source>
+		    </trans-unit>	   
+		    <trans-unit id="tablelayout.normalplus">
+			     <source>Colored header</source>
+		    </trans-unit>	   
+		    <trans-unit id="tablelayout.colorstripe">
+			     <source>Colored stripes</source>
+		    </trans-unit>
+		    <trans-unit id="tablelayout.noline">
+			     <source>no lines</source>
+		    </trans-unit>
+			<trans-unit id="tablelayout.lined">
+			     <source>only lines</source>
+		    </trans-unit> 
+		    
+ 			<trans-unit id="tablelayout.10-90">
+				<source>table, 2 cols 10/90</source>
+			</trans-unit>
+			<trans-unit id="tablelayout.20-80">
+				<source>table, 2 cols 20/80</source>
+			</trans-unit>
+			<trans-unit id="tablelayout.30-70">
+				<source>table, 2 cols 30/70</source>
+			</trans-unit>	
+			<trans-unit id="tablelayout.40-60">
+				<source>table, 2 cols 40/60</source>
+			</trans-unit>	
+			<trans-unit id="tablelayout.50-50">
+				<source>table, 2 cols 50/50</source>
+			</trans-unit>	
+			<trans-unit id="tablelayout.60-40">
+				<source>table, 2 cols 60/40</source>
+			</trans-unit>
+			<trans-unit id="tablelayout.70-30">
+				<source>table, 2 cols 70/30</source>
+			</trans-unit>
+			<trans-unit id="tablelayout.80-20">
+				<source>table, 2 cols 80/20</source>
+			</trans-unit>	
+			<trans-unit id="tablelayout.90-10">
+				<source>table, 2 cols 90/10</source>
+			</trans-unit>	
+			<trans-unit id="tablelayout.20-40-40">
+				<source>table, 3 cols 20/40/40</source>
+			</trans-unit>				
+			<trans-unit id="tablelayout.33-33-33">
+				<source>table, 3 cols 33/33/33</source>
+			</trans-unit>		
+			<trans-unit id="tablelayout.40-30-30">
+				<source>table, 3 cols 40/30/30</source>
+			</trans-unit>
+			<trans-unit id="tablelayout.50-25-25">
+				<source>table, 3 cols 50/25/25</source>
+			</trans-unit>		
+			<trans-unit id="tablelayout.60-20-20">
+				<source>table, 3 cols 60/20/20</source>
+			</trans-unit>
+			<trans-unit id="tablelayout.80-10-10">
+				<source>table, 3 cols 80/10/10</source>
+			</trans-unit>			
+			<trans-unit id="tablelayout.25-25-25-25">
+				<source>table, 4 cols 25-25-25-25</source>
+			</trans-unit>				
+			<trans-unit id="tablelayout.40-20-20-20">
+				<source>table, 4 cols 40/20/20/20</source>
+			</trans-unit>				
+			<trans-unit id="tablelayout.50-16-16-16">
+				<source>table, 4 cols 50/16/16/16</source>
+			</trans-unit>			
+			<trans-unit id="tablelayout.20-20-20-20-20">
+				<source>table, 5 cols 20/20/20/20/20</source>
+			</trans-unit>				
+			<trans-unit id="tablelayout.40-15-15-15-15">
+				<source>table, 5 cols 40/15/15/15/15</source>
+			</trans-unit>				
+			<trans-unit id="tablelayout.60-10-10-10-10">
+				<source>table, 5 cols 60/10/10/10/10</source>
+			</trans-unit>		
+			<trans-unit id="tablelayout.50-10-10-10-10-10">
+				<source>table, 6 cols 50/10/10/10/10/10</source>
+			</trans-unit>	
+			<trans-unit id="tablelayout.25-15-15-15-15-15">
+				<source>table, 6 cols 25/15/15/15/15/15</source>
+			</trans-unit>	
+			<trans-unit id="tablelayout.40-10-10-10-10-10-10">
+				<source>table, 7 cols 40/10/10/10/10/10/10</source>
+			</trans-unit>	
+			<trans-unit id="tablelayout.30-10-10-10-10-10-10-10">
+				<source>table, 8 cols 30/10/10/10/10/10/10/10</source>
+			</trans-unit>
+			<trans-unit id="tablelayout.20-10-10-10-10-10-10-10-10">
+				<source>table, 9 cols 20/10/10/10/10/10/10/10</source>
+			</trans-unit>
+			<trans-unit id="tablelayout.10-10-10-10-10-10-10-10-10-10">
+				<source>table, 10 cols 100/10/10/10/10/10/10/10</source>
+			</trans-unit>	
+
+		</body>
+	</file>
+</xliff>

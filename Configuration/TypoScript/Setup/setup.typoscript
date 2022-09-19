@@ -1,0 +1,21 @@
+# Fluid_styled_content Elements ###########################################################
+lib.contentElement.templateRootPaths.11 = EXT:t3up_table/Resources/Private/Templates/ContentElement/Templates/
+lib.contentElement.partialRootPaths.11  = EXT:t3up_table/Resources/Private/Templates/ContentElement/Partials/
+
+page.includeJSFooterlibs {
+
+    tablesorter                 		= EXT:t3up_table/Resources/Public/JavaScript/jquery.tablesorter.js
+    tablesorter.if.isTrue               = {$page.files.tablesorter}
+    tablesorter.async           		= 1 
+    
+    tablesorterstart            		= EXT:t3up_table/Resources/Public/JavaScript/jquery.tablestart.js
+    tablesorterstart.if.isTrue          = {$page.files.tablesorterstart}  
+    tablesorterstart.async      		= 1 
+}
+
+
+page.includeCSS    = COA
+page.includeCSS{
+   	t3up_table                                =  {$page.scss.scssT3upTable}
+    t3up_table.linenumber                     =  true    
+}

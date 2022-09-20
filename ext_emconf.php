@@ -8,7 +8,7 @@
 $EM_CONF[$_EXTKEY] = [
     'title'            => 'T3UP - Table',
     'description'      => 'Table Extension for the t3up-package',
-    'version'          => '0.5.0',
+    'version'          => '1.0.0',
     'state'            => 'stable',
     'category'         => 'templates',
     'author'           => 'Michael Lang',
@@ -19,7 +19,7 @@ $EM_CONF[$_EXTKEY] = [
     'clearCacheOnLoad' => true,
     'constraints'      => [
         'depends'   => [
-            'typo3' => '9.5.0-10.4.99',
+            'typo3' => '10.4-11.5',
         ],
         'conflicts' => [
             'fluidpages' => '*',

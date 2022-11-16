@@ -1,7 +1,6 @@
 TCEFORM {
     tt_content {
         layout {
-            removeItems = 1,2,3
             disableNoMatchingValueElement = 1
             types {
                 table {
@@ -46,7 +45,6 @@ TCEFORM {
             disableNoMatchingValueElement = 1
             addItems {
             		stripe      = LLL:EXT:t3up_table/Resources/Private/Language/locallang_backend.xlf:tablelayout.stripe
-                    normalplus  = LLL:EXT:t3up_table/Resources/Private/Language/locallang_backend.xlf:tablelayout.normalplus
                     colorstripe = LLL:EXT:t3up_table/Resources/Private/Language/locallang_backend.xlf:tablelayout.colorstripe
                     noline      = LLL:EXT:t3up_table/Resources/Private/Language/locallang_backend.xlf:tablelayout.noline
                     lined       = LLL:EXT:t3up_table/Resources/Private/Language/locallang_backend.xlf:tablelayout.lined

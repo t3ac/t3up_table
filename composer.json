@@ -16,8 +16,13 @@
     "t3up"
   ],
   "require": {
-    "typo3/cms-core": "^10.4 || ^11.5"
+    "typo3/cms-core": "^10.4.0 || ^11.5.99"
   },
+	"autoload": {
+		"psr-4": {
+	  		"T3up\\T3upTable\\": "Classes"
+		}
+	}, 
   "extra": {
     "typo3/cms": {
       "extension-key": "t3up_table"

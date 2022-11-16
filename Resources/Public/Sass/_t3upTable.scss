@@ -9,8 +9,8 @@
 }
    
 .ce-table  {                                                      width: 100%; max-width: 100%; 
-    td                                                            {padding: 5px 5px 5px 15px; vertical-align: top; border-top: 1px solid $tableLineColor; }
-    th                                                            {padding: 5px 5px 5px 15px; vertical-align: top; border-top: 1px solid $tableHeaderLineColor; } 
+    td                                                            {padding: .25rem .25rem .25rem .75rem; vertical-align: top; border-top: 1px solid $tableLineColor; }
+    th                                                            {padding: .25rem .25rem .25rem .75rem; vertical-align: top; border-top: 1px solid $tableHeaderLineColor; } 
     th                                                            {background-color: $tableHeader; color: $tableHeaderColor; }          
     label                                                         {margin-bottom: 0;}
     p                                                             {margin: 0;}   
@@ -40,8 +40,8 @@
    .ce-table-bordered td:first-of-type                            {border-left: 1px solid $tableLineColor}  
    .ce-table-bordered tr:last-of-type td                          {border-bottom: 1px solid $tableLineColor;} 
    
-   .ce-table-noline td                                            {border: 0 !important; padding: 5px 0; }
-   .ce-table-noline thead th                                      {padding: 5px 0; vertical-align: top; border-top: 0; border-bottom: 1px solid $tableLineColor; color: #333; background-color: transparent;  } 
+   .ce-table-noline td                                            {border: 0 !important; padding: .25rem 0; }
+   .ce-table-noline thead th                                      {padding: .25rem 0; vertical-align: top; border-top: 0; border-bottom: 1px solid $tableLineColor; color: #333; background-color: transparent;  } 
 
    .ce-table-stripe tr:last-of-type td                            {border: 0 !important;} 
    .ce-table-colorstripe tr:last-of-type td                       {border: 0 !important;} 
